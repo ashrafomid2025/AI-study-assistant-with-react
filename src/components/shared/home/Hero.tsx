@@ -5,7 +5,7 @@ function Hero() {
         <div className="lg:col-span-2">
           <div className="flex flex-col items-center">
             <h1 className="text-9xl font-black">
-              Build your website in 2 minutes
+              Build your website in 2 minute
             </h1>
             <span>
               Make one clean page for your Instagram, TikTok, WhatsApp,
